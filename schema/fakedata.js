@@ -5,6 +5,43 @@ UserList = [
         username: 'kcopes0',
         age: 15,
         nationality: 'China',
+        friends: [
+            {
+                id: 2,
+                name: 'Amby',
+                username: 'agatling1',
+                age: 58,
+                nationality: 'China',
+            },
+            {
+                id: 3,
+                name: 'Nissie',
+                username: 'nharbron2',
+                age: 25,
+                nationality: 'Indonesia',
+            },
+            {
+                id: 4,
+                name: 'Vick',
+                username: 'vsteeden3',
+                age: 48,
+                nationality: 'Portugal',
+            },
+            {
+                id: 5,
+                name: 'Maddalena',
+                username: 'msearjeant4',
+                age: 50,
+                nationality: 'Serbia',
+            },
+            {
+                id: 6,
+                name: 'Shellie',
+                username: 'shearthfield5',
+                age: 22,
+                nationality: 'Brazil',
+            },
+        ]
     },
     {
         id: 2,
