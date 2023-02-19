@@ -41,7 +41,7 @@ UserList = [
                 age: 22,
                 nationality: 'Brazil',
             },
-        ]
+        ],
     },
     {
         id: 2,
@@ -738,4 +738,4 @@ UserList = [
     },
 ]
 
-module.exports = {UserList}
+module.exports = { UserList }
